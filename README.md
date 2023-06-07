@@ -4,10 +4,6 @@
 
 <img width="1265" alt="Screenshot 2023-06-08 at 01 23 57" src="https://github.com/Ayushch12/PORTFOLIO/assets/96380226/7f044039-c12a-4d16-844c-b1dcf7ea2c3f">
 
-<div align="center">
-
-![GitHub repo size](https://img.shields.io/github/repo-size/19sajib/portfolio?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-</div>
 
 
 
