@@ -1,8 +1,8 @@
 # JS Portfolio Website
 
-[🔗Live Demo🔗](https://sajib.vercel.app/)
+[🔗Live Demo🔗](https://ayushchalise.com)
 
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
+![Protfolio Website]()
 
 <div align="center">
 
@@ -61,5 +61,4 @@ The page will reload if you make edits.
 <br />
 Feel free to contribute to this repo.
 
-### Show some ❤️&nbsp; by giving the star :star: to this repository!!
-<h1 align=center> 🧠 Happy Hacking 🧠 </h1>
+
