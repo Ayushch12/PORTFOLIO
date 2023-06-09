@@ -17,7 +17,7 @@
 
 <br />
 
-## 🚀 How to get started?
+## 🚀 How to get started this appliation?
 
 Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
